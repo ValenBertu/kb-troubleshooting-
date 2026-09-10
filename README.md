@@ -20,16 +20,16 @@ Todos los artículos siguen la misma plantilla, para que la base de conocimiento
 - **Cuándo escalar** — a qué nivel/equipo si no se resuelve
 - **Tags / Categoría**
 
-Podés ver la plantilla en blanco en [`plantilla/template-articulo.md`](./plantilla/template-articulo.md).
+Podés ver la plantilla en blanco en [`plantilla/template-articulo.md`](./Plantilla/template-articulo.md).
 
 ## 📚 Índice de artículos
 
 ### Red y Conectividad
-- [No conecta a la red WiFi](./articulos/01-no-conecta-wifi.md)
-- [Impresora de red no responde](./articulos/02-impresora-no-responde-red.md)
+- [No conecta a la red WiFi](./Articulos/01-no-conecta-wifi.md)
+- [Impresora de red no responde](./Articulos/02-impresora-no-responde-red.md)
 
 ### Cuentas y Accesos
-- [Usuario no puede iniciar sesión en su cuenta corporativa](./articulos/03-usuario-no-puede-iniciar-sesion.md)
+- [Usuario no puede iniciar sesión en su cuenta corporativa](./Articulos/03-usuario-no-puede-iniciar-sesion.md)
 
 ### Correo y Comunicaciones
 - _Próximamente_
