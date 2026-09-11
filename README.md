@@ -32,19 +32,34 @@ Podés ver la plantilla en blanco en [`plantilla/template-articulo.md`](./Planti
 - [Usuario no puede iniciar sesión en su cuenta corporativa](./Articulos/03-usuario-no-puede-iniciar-sesion.md)
 
 ### Correo y Comunicaciones
-- _Próximamente_
+- [No se puede enviar ni recibir correos en Outlook](./Articulos/04-outlook-no-envia-recibe-correo.md)
+- [No recibe correos externos, pero sí internos](./Articulos/05-no-recibe-correos-externos.md)
 
 ### Hardware / Equipos
-- _Próximamente_
+- [El equipo no enciende / no bootea](./Articulos/06-equipo-no-enciende.md)
 
 ### Software y Sistema Operativo
-- _Próximamente_
+- [Pantalla azul (BSOD) recurrente en Windows](./Articulos/07-pantalla-azul-bsod.md)
+- [La actualización de Windows falla o queda trabada](./Articulos/08-windows-update-falla.md)
 
 ### VPN y Acceso Remoto
-- _Próximamente_
+- [El usuario no puede conectarse a la VPN corporativa](./Articulos/09-no-conecta-vpn.md)
 
 ### Backups y Almacenamiento
-- _Próximamente_
+- [El backup automático falla o no se completa](./Articulos/10-backup-automatico-falla.md)
+
+### Rendimiento
+- [El equipo funciona muy lento / rendimiento degradado](./Articulos/11-equipo-lento-rendimiento.md)
+
+### Aplicaciones de Oficina
+- [Word o Excel se cierra inesperadamente o deja de responder](./Articulos/12-office-se-cierra-no-responde.md)
+- [El navegador carga páginas muy lento o se congela](./Articulos/13-navegador-lento-congelado.md)
+
+### Seguridad
+- [Se sospecha de malware o infección en el equipo](./Articulos/14-sospecha-malware.md)
+
+### Dispositivos Móviles
+- [El correo corporativo no sincroniza en el celular](./Articulos/15-correo-no-sincroniza-celular.md)
 
 > El índice se irá actualizando a medida que se agreguen los 15 artículos planificados.
 
@@ -58,8 +73,8 @@ En una empresa, este tipo de artículos vive normalmente en herramientas como **
 
 ## 🏷️ Tags utilizados
 
-`Red` · `WiFi` · `Hardware` · `Impresoras` · `Cuentas` · `Accesos` · `Active Directory` · `Seguridad` · `Conectividad` · `N1` · `N2`
+`Red` · `WiFi` · `Hardware` · `Impresoras` · `Cuentas` · `Accesos` · `Active Directory` · `Seguridad` · `Conectividad` · `Correo` · `Outlook` · `Microsoft 365` · `Spam` · `Exchange` · `Encendido` · `Notebook` · `PC de escritorio` · `Software` · `Sistema Operativo` · `Windows` · `BSOD` · `Drivers` · `Windows Update` · `Actualizaciones` · `VPN` · `Acceso Remoto` · `Backups` · `Almacenamiento` · `Continuidad de Datos` · `Rendimiento` · `Malware` · `Ransomware` · `Antivirus` · `Office` · `Word` · `Excel` · `Aplicaciones` · `Navegador` · `Móviles` · `MDM` · `N1` · `N2`
 
 ---
 
-📌 Proyecto en construcción — se irán sumando artículos hasta completar 15 casos de troubleshooting.
+✅ Base de conocimiento completa: 15 artículos cubriendo Red, Hardware, Cuentas y Accesos, Correo, Software y Sistema Operativo, VPN, Backups, Rendimiento, Aplicaciones de Oficina, Seguridad y Dispositivos Móviles.
